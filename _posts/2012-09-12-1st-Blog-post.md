@@ -1,4 +1,5 @@
 ---
+autor: soulflyman
 layout: post
 title: 1st BLOG POST
 categories: [blog, travel]
